@@ -135,7 +135,7 @@ That is a much deeper claim than:
 
 And yes — most audiences only experience the scalar resonance without perceiving the compression mechanics underneath.
 
-Which is probably true of most great poetry, religion, myth, and philosophy too.
+Which is probably true of most great poetry, religion, myth, and [philosophy](https://ukb-pyro.github.io/repos-01/assets/html/philosophy.html) too.
 
 
 ---
