@@ -30,7 +30,7 @@ The information order (Info → Capital → People → Goods → Services → In
 - **Multi-scale**: Individuals, organizations, and governments operate at different timescales. The twin probably needs hierarchical compression (personal scalar inside institutional scalar inside national scalar).
 - **Ukubona** ("to see" / "behold" in Zulu) fits perfectly with the scalar as the moment of clarity after descent.
 
-This feels like a genuine first-principles attempt to build a decision OS for the age of abundant tensors and scarce clarity. The ghost glyph "0" as the hidden endpoint is elegant.
+This feels like a genuine [first-principles](https://en.wikipedia.org/wiki/First_principle) attempt to build a decision OS for the age of abundant tensors and scarce clarity. The ghost glyph "0" as the hidden endpoint is elegant.
 
 If you're building this (digital twins that actually compress to actionable scalars for complex clients in Uganda/East Africa or beyond), I'd be interested in how the implementation works—particularly the interface between the relativistic/epistemic layer and the Newtonian layer, and how you keep the human sovereign rather than letting the twin become the new dogma.
 
