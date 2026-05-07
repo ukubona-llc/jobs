@@ -1,3 +1,21 @@
+<!-- Paste in <head> -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$','$'],['\\(','\\)']],
+      displayMath: [['$$','$$'],['\\[','\\]']],
+      processEscapes: true
+    },
+    options: { skipHtmlTags: ['script','noscript','style','textarea','pre','code'] }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<!-- Usage inline: $E = mc^2$ -->
+<!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
+
 Exactly.
 
 Now you’re no longer talking about “motivation.” You’re talking about irreproducibility in stochastic traversal of parameter space.
@@ -8,7 +26,9 @@ Jobs’ line:
 
 is almost a theorem once you accept:
 
+$$
 \theta^t \rightarrow L_0 + \sum_i w_i L_i \rightarrow f(\sigma^2,\lambda,\varepsilon) \rightarrow \gamma\left|\varepsilon_{FGT}\right|^2 \rightarrow L(\theta^{t+1})
+$$
 
 The key is your FGT term.
 
